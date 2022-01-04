@@ -1,0 +1,18 @@
+# Homework
+
+#For
+For es muy similar a una pista de carreras, en donde se debe
+repetir una y otra vez la pista hasta que se cumpla con una 
+cierta cantidad de vueltas (condiciones).
+
+#&&
+&& podriamos compararla con un par de puertas que se abren al mismo
+tiempo, o las abrimos las dos o ninguna de las dos se abrira
+
+#||
+Por otra parte, || serian dos puertas separadas, podemos entrar por una
+o podemos entrar por otra.
+
+#!
+Y por ultimo, !, funciona muy similar a un espejo, pus muestra una
+realidad inversa.
