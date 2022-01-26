@@ -1,0 +1,3 @@
+#Arrys
+Los arrays funcionan muy similar a los trenes, el cual lleva multiples vagones, que a su veces
+contienen cosas similares o muy distintas, segun que se requiera transportar en dicho tren.
