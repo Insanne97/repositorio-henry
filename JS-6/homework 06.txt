@@ -1,0 +1,5 @@
+## Prototype
+Prototype puede entenderse como un archivero donde se encuentra toda la informacion detras de un contructor.
+
+## Constructor
+Los contructores son elementos similares a carpetas, en las cuales se muestran elementos que se encuentran en el Prototype.
